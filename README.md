@@ -8,4 +8,4 @@ The Module will do the following:
 3.The Reviews will sit as pending in the back-office where admins will be able to accept or discard.
 4.Add a view to the module that shows approved reviews randomly.
 
-A short user manual for said module will be also in the dev branch.
+For the short user manual please refer to the wiki tab.
